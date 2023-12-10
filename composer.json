@@ -1,0 +1,17 @@
+{
+    "name": "company/utility",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Company\\Utility\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yashraj Kabra",
+            "email": "yashrajkabra11@gmail.com"
+        }
+    ],
+    "require": {}
+}
